@@ -11,3 +11,6 @@ August 18:
 - Reading: `1.1 Essentials`, `1.2 Objects`
 - Lab: `1.1 Setting Up Your Computer`, `1.2 javac, java, git`
 - Homework: `HW 0: Basic Java Programs`
+
+August 19:
+- Lecture: `3. References, Recursion, and Lists`, `4. SLLists, Nested Classes, Sentinel Nodes`, `5. DLLists, Arrays`
