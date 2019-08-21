@@ -14,3 +14,6 @@ August 18:
 
 August 19:
 - Lecture: `3. References, Recursion, and Lists`, `4. SLLists, Nested Classes, Sentinel Nodes`, `5. DLLists, Arrays`
+
+August 20:
+- Reading: `2.1 Mystery of Walrus`, `2.2 The SLList`, `2.3 The DLList`, `2.4 Arrays`
