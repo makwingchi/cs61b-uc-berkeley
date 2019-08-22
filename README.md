@@ -17,3 +17,8 @@ August 19:
 
 August 20:
 - Reading: `2.1 Mystery of Walrus`, `2.2 The SLList`, `2.3 The DLList`, `2.4 Arrays`
+
+August 21:
+- Lab: `2.1 IntelliJ Home Setup`, `2.2 Unit Testing with JUnit and IntLists`
+- Discussion: `2. Scope, Pass-by-Value, Static`
+- Project: `0. NBody (- calcDistance)`
