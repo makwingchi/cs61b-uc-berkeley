@@ -22,3 +22,7 @@ August 21:
 - Lab: `2.1 IntelliJ Home Setup`, `2.2 Unit Testing with JUnit and IntLists`
 - Discussion: `2. Scope, Pass-by-Value, Static`
 - Project: `0. NBody (- calcDistance)`
+
+August 22:
+- Project: `0. NBody`
+- Lecture: `6. ALists, Resizing, vs. SLists`
