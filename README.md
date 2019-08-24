@@ -26,3 +26,7 @@ August 21:
 August 22:
 - Project: `0. NBody`
 - Lecture: `6. ALists, Resizing, vs. SLists`
+
+August 23:
+- Lecture: `7. Testing`, `8. Inheritance, Implements`
+- Reading: `2.5 The AList`
