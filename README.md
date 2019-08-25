@@ -30,3 +30,8 @@ August 22:
 August 23:
 - Lecture: `7. Testing`, `8. Inheritance, Implements`
 - Reading: `2.5 The AList`
+
+August 24:
+- Reading: `3.1 A New Way`, `4.1 Intro & Interfaces`
+- Lab: `Testing, Debugging`
+- Discussion: `3. Linked Lists, Arrays`
