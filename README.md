@@ -33,5 +33,10 @@ August 23:
 
 August 24:
 - Reading: `3.1 A New Way`, `4.1 Intro & Interfaces`
-- Lab: `Testing, Debugging`
+- Lab: `3. Testing, Debugging`
 - Discussion: `3. Linked Lists, Arrays`
+
+August 25:
+- Project: `1A: Data Structures`
+- Lab: `4. Project 1A Review`
+- Lecture: `9. Extends, Casting, Higher Order Functions`, `10. Subtype Polymorphism vs. HoFs`
