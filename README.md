@@ -40,3 +40,8 @@ August 25:
 - Project: `1A: Data Structures`
 - Lab: `4. Project 1A Review`
 - Lecture: `9. Extends, Casting, Higher Order Functions`, `10. Subtype Polymorphism vs. HoFs`
+
+August 26:
+- Reading: `4.2 Extends, Casting, Higher Order Functions`, `4.3 Subtype Polymorphism vs. HOFs`, `4.4 Java libraries and packages`
+- Lecture: `11. Libraries, Abstract Classes, Packages`
+- Discussion: `4. Inheritance`
