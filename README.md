@@ -45,3 +45,8 @@ August 26:
 - Reading: `4.2 Extends, Casting, Higher Order Functions`, `4.3 Subtype Polymorphism vs. HOFs`, `4.4 Java libraries and packages`
 - Lecture: `11. Libraries, Abstract Classes, Packages`
 - Discussion: `4. Inheritance`
+
+August 27:
+- Project: `1B: Applying and Testing Data Structures`
+- Lecture: `13. Generics, Autoboxing`
+- Reading: `5.1 Autoboxing`, `5.2 Immutability`
