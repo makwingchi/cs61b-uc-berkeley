@@ -1,6 +1,6 @@
-# CS 61B Spring 2018
+# CS 61B Spring 2018/2019
 
-[Course Website](https://sp18.datastructur.es/)
+[Course Website for Spring 2018](https://sp18.datastructur.es/)
 <br>
 
 ## Updates
@@ -50,3 +50,11 @@ August 27:
 - Project: `1B: Applying and Testing Data Structures`
 - Lecture: `13. Generics, Autoboxing`
 - Reading: `5.1 Autoboxing`, `5.2 Immutability`
+
+August 28:
+- Reading: `5.3 Generics` 
+<br><br>
+**JUMP TO [SPRING 2019 VERSION](https://sp19.datastructur.es/) FROM NOW ON** 
+<br><br>
+- Lecture: `11. Exceptions, Iterators, Object Methods`
+- Reading: `6.1 Lists, Sets, and ArraySet`, `6.2 Throwing Exceptions`, `6.3 Iteration`, `6.4 Object Methods`
