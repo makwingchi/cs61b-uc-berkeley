@@ -58,3 +58,9 @@ August 28:
 <br><br>
 - Lecture: `11. Exceptions, Iterators, Object Methods`
 - Reading: `6.1 Lists, Sets, and ArraySet`, `6.2 Throwing Exceptions`, `6.3 Iteration`, `6.4 Object Methods`
+
+August 29:
+- Lecture: `13. Asymptotics I`
+- Reading: `8.1 Encapsulation, API's, ADT's`, `8.2 Asymptotics I`
+- Discussion: `Iterators, Iterables `
+- Lab: `5. HugLife`
