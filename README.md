@@ -42,7 +42,8 @@ August 25:
 - Lecture: `9. Extends, Casting, Higher Order Functions`, `10. Subtype Polymorphism vs. HoFs`
 
 August 26:
-- Reading: `4.2 Extends, Casting, Higher Order Functions`, `4.3 Subtype Polymorphism vs. HOFs`, `4.4 Java libraries and packages`
+- Reading: `4.2 Extends, Casting, Higher Order Functions`, `4.3 Subtype Polymorphism vs. HOFs`, <br>
+`4.4 Java libraries and packages`
 - Lecture: `11. Libraries, Abstract Classes, Packages`
 - Discussion: `4. Inheritance`
 
@@ -64,3 +65,8 @@ August 29:
 - Reading: `8.1 Encapsulation, API's, ADT's`, `8.2 Asymptotics I`
 - Discussion: `Iterators, Iterables `
 - Lab: `5. HugLife`
+
+August 30:
+- Lecture: `14. Disjoint Sets`, `15. Asymptotics II`
+- Reading: `9.1 Introduction to Disjoint Sets`, `9.2 Quick Find`, `9.3 Quick Union`, `9.4 Weighted Quick Union`, <br>
+`9.5 WQU with Path Compression`
