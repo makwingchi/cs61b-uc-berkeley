@@ -70,3 +70,8 @@ August 30:
 - Lecture: `14. Disjoint Sets`, `15. Asymptotics II`
 - Reading: `9.1 Introduction to Disjoint Sets`, `9.2 Quick Find`, `9.3 Quick Union`, `9.4 Weighted Quick Union`, <br>
 `9.5 WQU with Path Compression`
+
+August 31:
+- Reading: `8.3 Asymptotics II`, `10.1 Intro to ADTs`, `10.2 Trees`
+- Lecture: `16. ADTs, Sets, Maps, BSTs`
+- Lab: `6. Disjoint Sets`
