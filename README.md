@@ -75,3 +75,11 @@ August 31:
 - Reading: `8.3 Asymptotics II`, `10.1 Intro to ADTs`, `10.2 Trees`
 - Lecture: `16. ADTs, Sets, Maps, BSTs`
 - Lab: `6. Disjoint Sets`
+- Discussion: `6. Disjoint Sets and Asymptotics`
+
+Sept 1:
+- Homework: `1. Packages, Interfaces, Generics, Exceptions, Iteration`
+- Lecture: `17. B-Trees (2-3, 2-3-4 Trees)`, `18. Red Black Trees`
+- Reading: `11.1 Intro to B-Trees`, `11.2 B-Trees`, `11.3 B-Tree invariants and runtime`, `11.4 Rotating Trees`, <br>
+`11.5 Red-Black Trees`
+- Discussion: `7. Asymptotics II, Search Trees`
