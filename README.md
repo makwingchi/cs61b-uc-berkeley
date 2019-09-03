@@ -83,3 +83,10 @@ Sept 1:
 - Reading: `11.1 Intro to B-Trees`, `11.2 B-Trees`, `11.3 B-Tree invariants and runtime`, `11.4 Rotating Trees`, <br>
 `11.5 Red-Black Trees`
 - Discussion: `7. Asymptotics II, Search Trees`
+
+Sept 2:
+- Lecture: `19. Hashing`
+- Reading: `12.1 A first attempt`, `12.2 Inserting words`, `12.3 Inserting Strings and Overflow`, <br>
+`12.4 Handling Collisions`, `12.5 Hash Table and Fixing Runtime`
+- Lab: `7. TreeMap`
+- Homework: `2. Percolation`
