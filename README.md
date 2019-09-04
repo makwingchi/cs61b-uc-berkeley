@@ -90,3 +90,8 @@ Sept 2:
 `12.4 Handling Collisions`, `12.5 Hash Table and Fixing Runtime`
 - Lab: `7. TreeMap`
 - Homework: `2. Percolation`
+
+Sept 3:
+- Homework: `3. Hashing`
+- Lecture: `20. Heaps and PQs`
+- Reading: `13.1 PQ Interface`, `13.2 Heaps`, `13.3 Implementation Consideration`
