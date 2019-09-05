@@ -95,3 +95,9 @@ Sept 3:
 - Homework: `3. Hashing`
 - Lecture: `20. Heaps and PQs`
 - Reading: `13.1 PQ Interface`, `13.2 Heaps`, `13.3 Implementation Consideration`
+
+Sept 4:
+- Lab: `8. HashMap`
+- Discussion: `8. LLRBs, Hashing, Heaps`
+- Lecture: `21. Prefix Operations and Tries`
+- Reading: `14.1 Data Structure Summary`
