@@ -101,3 +101,8 @@ Sept 4:
 - Discussion: `8. LLRBs, Hashing, Heaps`
 - Lecture: `21. Prefix Operations and Tries`
 - Reading: `14.1 Data Structure Summary`
+
+Sept 5
+- Reading: `15.1 Introduction to Tries`, `15.2 Implementation and Performance`, `15.3 String Operations`, <br>
+`16.1 Uniform Partitioning`, `16.2 QuadTrees`, `16.3 K-D Trees`
+- Lecture: `22. Range Searching and Multi-Dimensional Data`
