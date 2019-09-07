@@ -102,7 +102,14 @@ Sept 4:
 - Lecture: `21. Prefix Operations and Tries`
 - Reading: `14.1 Data Structure Summary`
 
-Sept 5
+Sept 5:
 - Reading: `15.1 Introduction to Tries`, `15.2 Implementation and Performance`, `15.3 String Operations`, <br>
 `16.1 Uniform Partitioning`, `16.2 QuadTrees`, `16.3 K-D Trees`
 - Lecture: `22. Range Searching and Multi-Dimensional Data`
+
+Sept 6:
+- Lecture: `23. Tree and Graph Traversals`, `24. Graph Traversals and Implementations`
+- Reading: `17.1 Tree recap`, `17.2 Tree Traversals`, `17.3 Graphs`, `17.4 Graph Problems`, <br>
+`18.1 BFS`, `18.2 Representing Graphs`
+- Discussion: `9. Traversals, Tries, K-d Trees`
+- Lab: `9. Tries`
