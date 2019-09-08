@@ -113,3 +113,8 @@ Sept 6:
 `18.1 BFS`, `18.2 Representing Graphs`
 - Discussion: `9. Traversals, Tries, K-d Trees`
 - Lab: `9. Tries`
+
+Sept 7:
+- Lecture: `25. Shortest Paths`
+- Reading: `19.1 Recap`, `19.2 Dijkstra's`, `19.3 A*`
+- Project: `2A: Extrinsic MinPQ`, `2B. K-d Tree`
