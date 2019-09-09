@@ -118,3 +118,9 @@ Sept 7:
 - Lecture: `25. Shortest Paths`
 - Reading: `19.1 Recap`, `19.2 Dijkstra's`, `19.3 A*`
 - Project: `2A: Extrinsic MinPQ`, `2B. K-d Tree`
+
+Sept 8:
+- Lecture: `26. Minimum Spanning Trees`, `29. Basic Sorts`
+- Reading: `20.1 MSTs and Cut Property`, `20.2 Prim's and Kruskal's`, `21.1 Topological Sort and DAGs`, <br>
+`21.2 Shortest Path on DAGs`, `21.3 Longest Path`, `21.4 Reductions and Decomposition`
+- Discussion: `10. DFS, BFS, SPs, MSTs`, `11. Graphs`
