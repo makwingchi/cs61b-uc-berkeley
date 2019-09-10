@@ -124,3 +124,6 @@ Sept 8:
 - Reading: `20.1 MSTs and Cut Property`, `20.2 Prim's and Kruskal's`, `21.1 Topological Sort and DAGs`, <br>
 `21.2 Shortest Path on DAGs`, `21.3 Longest Path`, `21.4 Reductions and Decomposition`
 - Discussion: `10. DFS, BFS, SPs, MSTs`, `11. Graphs`
+
+Sept 9:
+- Lecture: `30. Quick Sort`, `31. Software Engineering I`
