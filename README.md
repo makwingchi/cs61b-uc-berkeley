@@ -131,3 +131,8 @@ Sept 9:
 Sept 10:
 - Lab: `11. Merge and Quicksort`
 - Lecture: `32. More Quick Sort, Sorting Summary`, `33. Sorting and Algorithmic Bounds`, `35. Radix Sorts`
+
+Sept 11:
+- Lecture: `34. Software Engineering II`, `36. Sorting and Data Structures Conclusion`, <br>
+`37. Software Engineering III`, `38. Compression`
+- Discussion: `12. ADTs & Sorting`, `13. More Sorting`
