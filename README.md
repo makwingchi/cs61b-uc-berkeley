@@ -136,3 +136,8 @@ Sept 11:
 - Lecture: `34. Software Engineering II`, `36. Sorting and Data Structures Conclusion`, <br>
 `37. Software Engineering III`, `38. Compression`
 - Discussion: `12. ADTs & Sorting`, `13. More Sorting`
+
+Sept 12:
+- Lecture: `39. Compression, Complexity, and P=NP?`, `31. Dynamic Programming (from Spring 2018)`
+- Homework: `4. Puzzle Solver`
+- Project: `2C. Bear Maps`
